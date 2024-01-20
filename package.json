@@ -1,0 +1,16 @@
+{
+  "name": "chainlink",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@chainlink/contracts": "^0.8.0",
+    "@etherpacks/dpack": "^0.0.31",
+    "hardhat": "^2.12.6"
+  }
+}
