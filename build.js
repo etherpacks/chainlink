@@ -53,3 +53,4 @@ async function build(network) {
 }
 
 build('arbitrum')
+build('ethereum')

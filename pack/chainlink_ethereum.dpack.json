@@ -1,0 +1,54 @@
+{
+  "format": "dpack-1",
+  "network": "ethereum",
+  "types": {
+    "AggregatorV3Interface": {
+      "typename": "AggregatorV3Interface",
+      "artifact": {
+        "/": "bafkreiav6bww4jubp76jq6odgbj622dpq56bmdvshf6wc6ik7kaqy5xkta"
+      }
+    }
+  },
+  "objects": {
+    "agg_dai_usd": {
+      "objectname": "agg_dai_usd",
+      "address": "0xaed0c38402a5d19df6e4c03f4e2dced6e29c1ee9",
+      "typename": "AggregatorV3Interface",
+      "artifact": {
+        "/": "bafkreiav6bww4jubp76jq6odgbj622dpq56bmdvshf6wc6ik7kaqy5xkta"
+      }
+    },
+    "agg_xau_usd": {
+      "objectname": "agg_xau_usd",
+      "address": "0x214ed9da11d2fbe465a6fc601a91e62ebec1a0d6",
+      "typename": "AggregatorV3Interface",
+      "artifact": {
+        "/": "bafkreiav6bww4jubp76jq6odgbj622dpq56bmdvshf6wc6ik7kaqy5xkta"
+      }
+    },
+    "agg_eth_usd": {
+      "objectname": "agg_eth_usd",
+      "address": "0x214ed9da11d2fbe465a6fc601a91e62ebec1a0d6",
+      "typename": "AggregatorV3Interface",
+      "artifact": {
+        "/": "bafkreiav6bww4jubp76jq6odgbj622dpq56bmdvshf6wc6ik7kaqy5xkta"
+      }
+    },
+    "agg_weth_usd": {
+      "objectname": "agg_weth_usd",
+      "address": "0x214ed9da11d2fbe465a6fc601a91e62ebec1a0d6",
+      "typename": "AggregatorV3Interface",
+      "artifact": {
+        "/": "bafkreiav6bww4jubp76jq6odgbj622dpq56bmdvshf6wc6ik7kaqy5xkta"
+      }
+    },
+    "agg_wsteth_eth": {
+      "objectname": "agg_wsteth_eth",
+      "address": "0xb523ae262d20a936bc152e6023996e46fdc2a95d",
+      "typename": "AggregatorV3Interface",
+      "artifact": {
+        "/": "bafkreiav6bww4jubp76jq6odgbj622dpq56bmdvshf6wc6ik7kaqy5xkta"
+      }
+    }
+  }
+}
