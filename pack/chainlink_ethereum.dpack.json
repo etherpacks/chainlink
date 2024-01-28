@@ -26,8 +26,8 @@
         "/": "bafkreiav6bww4jubp76jq6odgbj622dpq56bmdvshf6wc6ik7kaqy5xkta"
       }
     },
-    "agg_usdc_usd": {
-      "objectname": "agg_usdc_usd",
+    "agg_usdc_eth": {
+      "objectname": "agg_usdc_eth",
       "address": "0x986b5E1e1755e3C2440e960477f25201B0a8bbD4",
       "typename": "AggregatorV3Interface",
       "artifact": {
