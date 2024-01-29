@@ -50,8 +50,12 @@ async function build(network) {
   }
 
   const pack = await builder.build();
+
+  const cid = await dpack.putIpfsJson(pack, true)
+  console.log(`  ${network} pack @ ${cid}`)
   fs.writeFileSync(`./pack/chainlink_${network}.dpack.json`, JSON.stringify(pack, null, 2));
 }
 
 build('arbitrum')
 build('ethereum')
+build('sepolia')
