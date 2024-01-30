@@ -22,6 +22,7 @@ let info = {
   ethereum: {
     dai_usd: { address: '0xaed0c38402a5d19df6e4c03f4e2dced6e29c1ee9' },
     xau_usd: { address: '0x214ed9da11d2fbe465a6fc601a91e62ebec1a0d6' },
+    usdc_usd: { address: '0x8fFfFfd4AfB6115b954Bd326cbe7B4BA576818f6' },
     usdc_eth: { address: '0x986b5E1e1755e3C2440e960477f25201B0a8bbD4' },
     eth_usd: { address: '0x5f4eC3Df9cbd43714FE2740f5E3616155c5b8419' },
   }
