@@ -41,22 +41,6 @@
       "artifact": {
         "/": "bafkreiav6bww4jubp76jq6odgbj622dpq56bmdvshf6wc6ik7kaqy5xkta"
       }
-    },
-    "agg_weth_usd": {
-      "objectname": "agg_weth_usd",
-      "address": "0x5f4eC3Df9cbd43714FE2740f5E3616155c5b8419",
-      "typename": "AggregatorV3Interface",
-      "artifact": {
-        "/": "bafkreiav6bww4jubp76jq6odgbj622dpq56bmdvshf6wc6ik7kaqy5xkta"
-      }
-    },
-    "agg_wsteth_eth": {
-      "objectname": "agg_wsteth_eth",
-      "address": "0xb523ae262d20a936bc152e6023996e46fdc2a95d",
-      "typename": "AggregatorV3Interface",
-      "artifact": {
-        "/": "bafkreiav6bww4jubp76jq6odgbj622dpq56bmdvshf6wc6ik7kaqy5xkta"
-      }
     }
   }
 }
