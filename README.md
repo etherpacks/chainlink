@@ -1,2 +1,4 @@
-  ethereum pack @ bafkreigzd6efb6kfhd4is7zvgiua3hqvdimmqsbs72vjtytgqcd3cdxhiq
-  arbitrum pack @ bafkreia4hj7dzbdkipoczogwdao7nsdiwepztj5jdrhbn5fmleps3n77i4
+
+  ethereum pack @ bafkreidz647bfb36naoib7mbshpiowmz5rhnh6sjhy4aenzqxkb3rjyvsm
+  arbitrum pack @ bafkreibjf2rhqgqhxexotzf3fhgbbwn6m7zes4uldszx5qsy6ovyzp5rry
+
